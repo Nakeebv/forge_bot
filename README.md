@@ -1,5 +1,7 @@
 # github-core-clone-01 starter
 
+![make.fun bounty](https://make.fun/badge/github-core-clone-01.svg) ![rank](https://make.fun/badge/github-core-clone-01/Nakeebv/forge_bot/rank.svg) ![reward](https://make.fun/badge/github-core-clone-01/Nakeebv/forge_bot/reward.svg)
+
 A runnable starting point for [the contest](https://make.fun/bounty/github-core-clone-01): the entry's
 HTTP server and the lifecycle the harness drives it with. It answers two routes and a JSON 404 for
 everything else, so it boots and registers but passes almost nothing: the git smart-HTTP server, the
